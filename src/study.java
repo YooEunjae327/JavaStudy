@@ -19,13 +19,13 @@ public class study {
 }
 
 
-class Sex {
+class Test {
     public void test() {
-        System.out.println("sex");
+        System.out.println("test");
     }
 }
 
-class  Car extends Sex {
+class  Car extends Test {
     private String modelName;
     private int modelYear;
 
