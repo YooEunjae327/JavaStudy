@@ -1,4 +1,4 @@
-package dependency;
+package dependency.old;
 
 class Number {
     static int num = 0; // 클래드 필드

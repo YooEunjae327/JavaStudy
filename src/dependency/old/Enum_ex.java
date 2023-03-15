@@ -1,4 +1,4 @@
-package dependency;
+package dependency.old;
 
 public class Enum_ex {
     // 가존 방식

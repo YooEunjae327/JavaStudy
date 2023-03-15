@@ -1,4 +1,4 @@
-package dependency;
+package dependency.old;
 
 public class BurgerChefOrigin {
 

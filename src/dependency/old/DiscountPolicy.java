@@ -1,3 +1,5 @@
+package dependency.old;
+
 public interface DiscountPolicy {
     int discount(int age, int pirce);
 }
